@@ -1,0 +1,254 @@
+[
+  {
+    "sku": "001R00623",
+    "description": "Transfer Belt Cleaner [160000] (B81xx,C8100, B82xx, C82xx) ",
+    "category": "Boeing Consumable Xerox - No Hologram",
+    "totalQty": 2
+  },
+  {
+    "sku": "006R01509",
+    "description": "Metered Toner Cartridge - Black  [26000] (C8035,EC8036,EC7836,WC7535,WC7835)",
+    "category": "Boeing Consumable Xerox - Hologram",
+    "totalQty": 15
+  },
+  {
+    "sku": "006R01510",
+    "description": "Metered Toner Cartridge – Yellow  [15000] (C8035,EC8036,EC7836,WC7535,WC7835)",
+    "category": "Boeing Consumable Xerox - Hologram",
+    "totalQty": 23
+  },
+  {
+    "sku": "006R01511",
+    "description": "Metered Toner Cartridge – Magenta [15000] (C8035,EC8036,EC7836,WC7535,WC7835)",
+    "category": "Boeing Consumable Xerox - Hologram",
+    "totalQty": 28
+  },
+  {
+    "sku": "006R01512",
+    "description": "Metered Toner Cartridge – Cyan [15000] (C8035,EC8036,EC7836,WC7535,WC7835)",
+    "category": "Boeing Consumable Xerox - Hologram",
+    "totalQty": 9
+  },
+  {
+    "sku": "006R01742",
+    "description": "Metered Toner Cartridge - Black [26000] (C8135)",
+    "category": "Boeing Consumable Xerox - Hologram",
+    "totalQty": 4
+  },
+  {
+    "sku": "006R01744",
+    "description": "Metered Toner Cartridge - Magenta [26000] (C8135)",
+    "category": "Boeing Consumable Xerox - Hologram",
+    "totalQty": 3
+  },
+  {
+    "sku": "006R01745",
+    "description": "Metered Toner Cartridge - Yellow [26000] (C8135)",
+    "category": "Boeing Consumable Xerox - Hologram",
+    "totalQty": 5
+  },
+  {
+    "sku": "006R04674",
+    "description": "Metered Toner Cartridge [45000] (B625)",
+    "category": "Boeing Consumable Xerox - Hologram",
+    "totalQty": 4
+  },
+  {
+    "sku": "006R04693",
+    "description": "Metered Toner Cartridge – Black [15000] (C415)",
+    "category": "Boeing Consumable Xerox - Hologram",
+    "totalQty": 1
+  },
+  {
+    "sku": "006R04695",
+    "description": "Metered Toner Cartridge – Magenta [10000] (C415)",
+    "category": "Boeing Consumable Xerox - Hologram",
+    "totalQty": 2
+  },
+  {
+    "sku": "006R04696",
+    "description": "Metered Toner Cartridge – Yellow [10000] (C415)",
+    "category": "Boeing Consumable Xerox - Hologram",
+    "totalQty": 1
+  },
+  {
+    "sku": "008R08103",
+    "description": "Second Bias Transfer Roller [200000]  (C8135,B8145)",
+    "category": "Boeing Consumable Xerox - Hologram",
+    "totalQty": 2
+  },
+  {
+    "sku": "008R13325",
+    "description": "Waste Cartridge [30000] (C415)",
+    "category": "Boeing Consumable Xerox - Hologram",
+    "totalQty": 1
+  },
+  {
+    "sku": "013R00681",
+    "description": "Drum Cartridge (1) [180000\r\n] (C8135)",
+    "category": "Boeing Consumable Xerox - Hologram",
+    "totalQty": 10
+  },
+  {
+    "sku": "059K75651",
+    "description": " Registration Transport Assembly (WC7835,  C8035) 859K06462 ",
+    "category": "Boeing Part Xerox - Standard",
+    "totalQty": 3
+  },
+  {
+    "sku": "064K93638",
+    "description": "#NS# IBT Assembly (WC7835) 604K57389 ",
+    "category": "Boeing Part Xerox - Standard",
+    "totalQty": 3
+  },
+  {
+    "sku": "101R00582",
+    "description": "Drum Cartridge [60000] (B600,B605x,B610,B615)",
+    "category": "Boeing Consumable Xerox - No Hologram",
+    "totalQty": 2
+  },
+  {
+    "sku": "106R03536",
+    "description": "Metered Toner Cartridge - Black [10500] (C400,C405) ",
+    "category": "Boeing Consumable Xerox - Hologram",
+    "totalQty": 5
+  },
+  {
+    "sku": "106R03537",
+    "description": "Metered Toner Cartridge – Yellow [8000] (C400,C405) ",
+    "category": "Boeing Consumable Xerox - Hologram",
+    "totalQty": 4
+  },
+  {
+    "sku": "106R03538",
+    "description": "Metered Toner Cartridge – Cyan [8000] (C400,C405) ",
+    "category": "Boeing Consumable Xerox - Hologram",
+    "totalQty": 5
+  },
+  {
+    "sku": "106R03539",
+    "description": "Metered Toner Cartridge – Magenta [8000] (C400,C405) ",
+    "category": "Boeing Consumable Xerox - Hologram",
+    "totalQty": 2
+  },
+  {
+    "sku": "106R03946",
+    "description": "Metered Toner Cartridge [45000] (B600,B605,B610,B615)",
+    "category": "Boeing Consumable Xerox - Hologram",
+    "totalQty": 2
+  },
+  {
+    "sku": "108R01121",
+    "description": "Drum Cartridge [60000] (C400,C405,PH6600,WC6605,WC6655) ",
+    "category": "Boeing Consumable Xerox - No Hologram",
+    "totalQty": 18
+  },
+  {
+    "sku": "108R01122",
+    "description": "Transfer Unit [100000] (C400,C405,PH6600,WC6605,WC6655) ",
+    "category": "Boeing Consumable Xerox - No Hologram",
+    "totalQty": 4
+  },
+  {
+    "sku": "115R00139",
+    "description": "Fuser 110V   [200000] (B600,B605,B610,B615)",
+    "category": "Boeing Consumable Xerox - Hologram",
+    "totalQty": 1
+  },
+  {
+    "sku": "116R00009",
+    "description": "Transfer Roller Kit [200000] (B600, B610, B605, B615)",
+    "category": "Boeing Consumable Xerox - No Hologram",
+    "totalQty": 2
+  },
+  {
+    "sku": "121N01162",
+    "description": "Registration solenoid  (PH3635)",
+    "category": "Boeing Part Xerox - Standard",
+    "totalQty": 3
+  },
+  {
+    "sku": "127K64380",
+    "description": "#NS# IBT DRIVE MTR",
+    "category": "Boeing Part Xerox - No Stock",
+    "totalQty": 1
+  },
+  {
+    "sku": "127K66670",
+    "description": "Dispense Assembly (WC7835)",
+    "category": "Boeing Part Xerox - Standard",
+    "totalQty": 2
+  },
+  {
+    "sku": "600N03559",
+    "description": "Fuser 110V Low Speed (ALC8030,ALC8035) 607K08990",
+    "category": "Boeing Consumable Xerox - Hologram",
+    "totalQty": 2
+  },
+  {
+    "sku": "604K62202",
+    "description": "Breakfix Fuser 110V (WC7835,WC7535)",
+    "category": "Boeing Part Xerox - Standard",
+    "totalQty": 5
+  },
+  {
+    "sku": "607K12020",
+    "description": "676K65020 Feed roller Kit (Most Altalink,Versalink,WorkCenter)",
+    "category": "Boeing Consumable Xerox - No Hologram",
+    "totalQty": 3
+  },
+  {
+    "sku": "B3P06A",
+    "description": "Printhead (HPDJT920)",
+    "category": "Boeing Consumable 3rd Party - Standard",
+    "totalQty": 1
+  },
+  {
+    "sku": "B3P20A",
+    "description": "#NO# 727 130-ML MAGENTA DESIGNJET",
+    "category": "Boeing Part 3rd Party - No Order",
+    "totalQty": 1
+  },
+  {
+    "sku": "B3P21A",
+    "description": "#NO# 727 130-ML YELLOW DESIGNJET",
+    "category": "Boeing Part 3rd Party - No Order",
+    "totalQty": 2
+  },
+  {
+    "sku": "B3P23A",
+    "description": "#NO# 727 130-ML PHOTO BLACK DESIGNJET",
+    "category": "Boeing Part 3rd Party - No Order",
+    "totalQty": 2
+  },
+  {
+    "sku": "C1Q12A",
+    "description": "HP 727 300-ml  Matte Black (HPDJT920)",
+    "category": "Boeing Consumable 3rd Party - Standard",
+    "totalQty": 1
+  },
+  {
+    "sku": "C9403A",
+    "description": "OEM 72 (130 ML) INK CARTRIDGE MATTE BLACK",
+    "category": "Boeing Consumable 3rd Party - Standard",
+    "totalQty": 1
+  },
+  {
+    "sku": "CM995A",
+    "description": "400-ml Grey (HPDJT7100)",
+    "category": "Boeing Consumable 3rd Party - Standard",
+    "totalQty": 1
+  },
+  {
+    "sku": "P1076000-006",
+    "description": "#NO# Power Supply(Zebra GX430 GX420)",
+    "category": "Boeing - Do Not Order",
+    "totalQty": 2
+  },
+  {
+    "sku": "YU02091001",
+    "description": "#NO# USB READER V2 SMART CARD V2",
+    "category": "Boeing - Do Not Order",
+    "totalQty": 21
+  }
+]

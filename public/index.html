@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Boeing Printer Parts Management</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <!-- Login Screen -->
+    <div id="loginScreen" class="screen">
+        <div class="login-container">
+            <h1>🖨️ Printer Parts Management</h1>
+            <p class="subtitle">Boeing Houston - MW Location</p>
+            <form id="loginForm">
+                <input type="text" id="username" placeholder="Username" required autocomplete="username">
+                <input type="password" id="password" placeholder="Password" required autocomplete="current-password">
+                <button type="submit">Login</button>
+                <div id="loginError" class="error"></div>
+            </form>
+        </div>
+    </div>
+
+    <!-- Main App Screen -->
+    <div id="appScreen" class="screen hidden">
+        <header>
+            <div class="header-left">
+                <h1>🖨️ Printer Parts Management</h1>
+                <span class="location">Houston MW</span>
+            </div>
+            <div class="header-right">
+                <span class="user-name" id="currentUser"></span>
+                <button id="logoutBtn" class="logout-btn">Logout</button>
+            </div>
+        </header>
+
+        <!-- Navigation Tabs -->
+        <nav class="tabs">
+            <button class="tab-btn active" data-tab="dashboard">Dashboard</button>
+            <button class="tab-btn" data-tab="printers">Printers</button>
+            <button class="tab-btn" data-tab="parts">Parts Inventory</button>
+        </nav>
+
+        <main>
+            <!-- Dashboard Tab -->
+            <div id="dashboardTab" class="tab-content active">
+                <!-- Stats Cards -->
+                <div class="stats-grid">
+                    <div class="stat-card">
+                        <div class="stat-icon">🖨️</div>
+                        <div class="stat-info">
+                            <h3 id="statPrinters">--</h3>
+                            <p>Total Printers</p>
+                        </div>
+                    </div>
+                    <div class="stat-card">
+                        <div class="stat-icon">📦</div>
+                        <div class="stat-info">
+                            <h3 id="statParts">--</h3>
+                            <p>Unique Parts</p>
+                        </div>
+                    </div>
+                    <div class="stat-card">
+                        <div class="stat-icon">⚠️</div>
+                        <div class="stat-info">
+                            <h3 id="statLowStock">--</h3>
+                            <p>Low Stock Items</p>
+                        </div>
+                    </div>
+                    <div class="stat-card">
+                        <div class="stat-icon">❌</div>
+                        <div class="stat-info">
+                            <h3 id="statOutStock">--</h3>
+                            <p>Out of Stock</p>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Universal Search -->
+                <div class="search-section">
+                    <h2>Quick Search</h2>
+                    <div class="search-box">
+                        <input type="text" 
+                               id="universalSearch" 
+                               placeholder="Enter Asset Number (e.g., A4064127) or SKU (e.g., 006R01511)"
+                               autocomplete="off">
+                        <button id="universalSearchBtn" class="search-btn">Search</button>
+                    </div>
+                    <div id="universalSearchError" class="error"></div>
+                </div>
+
+                <!-- Search Results (appears when search is done) -->
+                <div id="searchResults" class="hidden"></div>
+            </div>
+
+            <!-- Printers Tab -->
+            <div id="printersTab" class="tab-content">
+                <div class="page-header">
+                    <h2>All Printers</h2>
+                    <input type="text" id="printerFilter" placeholder="Filter by model, floor, or room..." class="filter-input">
+                </div>
+                <div id="printersLoading" class="loading">Loading printers...</div>
+                <div id="printersList" class="data-grid"></div>
+            </div>
+
+            <!-- Parts Tab -->
+            <div id="partsTab" class="tab-content">
+                <div class="page-header">
+                    <h2>Parts Inventory</h2>
+                    <input type="text" id="partsFilter" placeholder="Filter by SKU or description..." class="filter-input">
+                </div>
+                <div id="partsLoading" class="loading">Loading parts...</div>
+                <div id="partsList" class="data-grid"></div>
+            </div>
+        </main>
+    </div>
+
+    <!-- Modal for details -->
+    <div id="modal" class="modal hidden">
+        <div class="modal-content">
+            <button class="modal-close">&times;</button>
+            <div id="modalBody"></div>
+        </div>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>

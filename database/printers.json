@@ -1,0 +1,386 @@
+[
+  {
+    "assetNumber": "A4064127",
+    "modelName": "Designjet T790 (44 inch wide)",
+    "modelCode": "T790",
+    "floor": "1",
+    "room": "1D411",
+    "site": "USA/TX/Houston/91-51/1"
+  },
+  {
+    "assetNumber": "A5175793",
+    "modelName": "WorkCentre 7835",
+    "modelCode": "WC7835",
+    "floor": "1",
+    "room": "1D610",
+    "site": "USA/TX/Houston/91-51/1"
+  },
+  {
+    "assetNumber": "A5383138",
+    "modelName": "WorkCentre 7835",
+    "modelCode": "WC7835",
+    "floor": "5",
+    "room": "5D415",
+    "site": "USA/TX/Houston/91-51/5"
+  },
+  {
+    "assetNumber": "A5383142",
+    "modelName": "WorkCentre 7835",
+    "modelCode": "WC7835",
+    "floor": "5",
+    "room": "5E421",
+    "site": "USA/TX/Houston/91-51/5"
+  },
+  {
+    "assetNumber": "A5383162",
+    "modelName": "WorkCentre 7835",
+    "modelCode": "WC7835",
+    "floor": "1",
+    "room": "1D202",
+    "site": "USA/TX/Houston/91-51/1"
+  },
+  {
+    "assetNumber": "A5401942",
+    "modelName": "WorkCentre 7835",
+    "modelCode": "WC7835",
+    "floor": "1",
+    "room": "1E215",
+    "site": "USA/TX/Houston/91-51/1"
+  },
+  {
+    "assetNumber": "A5686839",
+    "modelName": "Designjet T920 36-in ePrinter",
+    "modelCode": "T920",
+    "floor": "4",
+    "room": "4D609",
+    "site": "USA/TX/Houston/91-51/4"
+  },
+  {
+    "assetNumber": "A5686841",
+    "modelName": "Designjet T920 36-in ePrinter",
+    "modelCode": "T920",
+    "floor": "3",
+    "room": "3E312P",
+    "site": "USA/TX/Houston/91-51/3"
+  },
+  {
+    "assetNumber": "A5686844",
+    "modelName": "Designjet T920 36-in ePrinter",
+    "modelCode": "T920",
+    "floor": "5",
+    "room": "5E624",
+    "site": "USA/TX/Houston/91-51/5"
+  },
+  {
+    "assetNumber": "A5686846",
+    "modelName": "Designjet T920 36-in ePrinter",
+    "modelCode": "T920",
+    "floor": "2",
+    "room": "2D712",
+    "site": "USA/TX/Houston/91-51/2"
+  },
+  {
+    "assetNumber": "A5686847",
+    "modelName": "Designjet T920 36-in ePrinter",
+    "modelCode": "T920",
+    "floor": "2",
+    "room": "2A808",
+    "site": "USA/TX/Houston/91-51/2"
+  },
+  {
+    "assetNumber": "A6271730",
+    "modelName": "VersaLink C400DN",
+    "modelCode": "C400",
+    "floor": "2",
+    "room": "2B607",
+    "site": "USA/TX/Houston/91-51/2"
+  },
+  {
+    "assetNumber": "A6290417",
+    "modelName": "VersaLink B605S",
+    "modelCode": "B605",
+    "floor": "1",
+    "room": "Badge Office",
+    "site": "USA/TX/Houston/91-51/1"
+  },
+  {
+    "assetNumber": "A6437774",
+    "modelName": "AltaLink C8135 Office Color Tandem Tray",
+    "modelCode": "C8135",
+    "floor": "5",
+    "room": "5E420",
+    "site": "USA/TX/Houston/91-51/5"
+  },
+  {
+    "assetNumber": "A6525360",
+    "modelName": "VersaLink B620DN",
+    "modelCode": "B620",
+    "floor": "4",
+    "room": "4D703",
+    "site": "USA/TX/Houston/91-51/4"
+  },
+  {
+    "assetNumber": "A6525361",
+    "modelName": "VersaLink B620DN",
+    "modelCode": "B620",
+    "floor": "4",
+    "room": "4B105",
+    "site": "USA/TX/Houston/91-51/4"
+  },
+  {
+    "assetNumber": "A6525363",
+    "modelName": "VersaLink B620DN",
+    "modelCode": "B620",
+    "floor": "4",
+    "room": "4A125",
+    "site": "USA/TX/Houston/91-51/4"
+  },
+  {
+    "assetNumber": "A6525364",
+    "modelName": "VersaLink B620DN",
+    "modelCode": "B620",
+    "floor": "3",
+    "room": "3D304",
+    "site": "USA/TX/Houston/91-51/3"
+  },
+  {
+    "assetNumber": "A6525365",
+    "modelName": "VersaLink B620DN",
+    "modelCode": "B620",
+    "floor": "2",
+    "room": "2A425",
+    "site": "USA/TX/Houston/91-51/2"
+  },
+  {
+    "assetNumber": "A6525366",
+    "modelName": "VersaLink B620DN",
+    "modelCode": "B620",
+    "floor": "1",
+    "room": "1E116B",
+    "site": "USA/TX/Houston/91-51/1"
+  },
+  {
+    "assetNumber": "A6525367",
+    "modelName": "VersaLink B620DN",
+    "modelCode": "B620",
+    "floor": "1",
+    "room": "1D324",
+    "site": "USA/TX/Houston/91-51/1"
+  },
+  {
+    "assetNumber": "A6525870",
+    "modelName": "VersaLink C415",
+    "modelCode": "C415",
+    "floor": "5",
+    "room": "5B403",
+    "site": "USA/TX/Houston/91-51/5"
+  },
+  {
+    "assetNumber": "A6683185",
+    "modelName": "AltaLink C8145 Office Color Tandem Tray",
+    "modelCode": "C8145",
+    "floor": "1",
+    "room": "1B313",
+    "site": "USA/TX/Houston/91-51/1"
+  },
+  {
+    "assetNumber": "A6683186",
+    "modelName": "AltaLink C8145 Office Color Tandem Tray",
+    "modelCode": "C8145",
+    "floor": "2",
+    "room": "2A701",
+    "site": "USA/TX/Houston/91-51/2"
+  },
+  {
+    "assetNumber": "A6683187",
+    "modelName": "AltaLink C8145 Office Color Tandem Tray",
+    "modelCode": "C8145",
+    "floor": "2",
+    "room": "2A808",
+    "site": "USA/TX/Houston/91-51/2"
+  },
+  {
+    "assetNumber": "A6683188",
+    "modelName": "AltaLink C8145 Office Color Tandem Tray",
+    "modelCode": "C8145",
+    "floor": "2",
+    "room": "2D712",
+    "site": "USA/TX/Houston/91-51/2"
+  },
+  {
+    "assetNumber": "A6683189",
+    "modelName": "VersaLink B625DN",
+    "modelCode": "B625",
+    "floor": "1",
+    "room": "1A125",
+    "site": "USA/TX/Houston/91-51/1"
+  },
+  {
+    "assetNumber": "A6683190",
+    "modelName": "VersaLink B625DN",
+    "modelCode": "B625",
+    "floor": "1",
+    "room": "1D107",
+    "site": "USA/TX/Houston/91-51/1"
+  },
+  {
+    "assetNumber": "A6683191",
+    "modelName": "VersaLink B625DN",
+    "modelCode": "B625",
+    "floor": "1",
+    "room": "1E118",
+    "site": "USA/TX/Houston/91-51/1"
+  },
+  {
+    "assetNumber": "A6683232",
+    "modelName": "VersaLink B625DN",
+    "modelCode": "B625",
+    "floor": "4",
+    "room": "4B/106",
+    "site": "USA/TX/Houston/91-51/4"
+  },
+  {
+    "assetNumber": "A6683233",
+    "modelName": "AltaLink C8145 Office Color Tandem Tray",
+    "modelCode": "C8145",
+    "floor": "2",
+    "room": "2E518",
+    "site": "USA/TX/Houston/91-51/2"
+  },
+  {
+    "assetNumber": "A6683234",
+    "modelName": "AltaLink C8145 Office Color Tandem Tray",
+    "modelCode": "C8145",
+    "floor": "3",
+    "room": "3A511",
+    "site": "USA/TX/Houston/91-51/3"
+  },
+  {
+    "assetNumber": "A6683235",
+    "modelName": "AltaLink C8145 Office Color Tandem Tray",
+    "modelCode": "C8145",
+    "floor": "3",
+    "room": "3A511",
+    "site": "USA/TX/Houston/91-51/3"
+  },
+  {
+    "assetNumber": "A6683236",
+    "modelName": "AltaLink C8145 Office Color Tandem Tray",
+    "modelCode": "C8145",
+    "floor": "3",
+    "room": "3B412",
+    "site": "USA/TX/Houston/91-51/3"
+  },
+  {
+    "assetNumber": "A6683237",
+    "modelName": "AltaLink C8145 Office Color Tandem Tray",
+    "modelCode": "C8145",
+    "floor": "3",
+    "room": "3C506",
+    "site": "USA/TX/Houston/91-51/3"
+  },
+  {
+    "assetNumber": "A6683238",
+    "modelName": "AltaLink C8145 Office Color Tandem Tray",
+    "modelCode": "C8145",
+    "floor": "3",
+    "room": "3D611",
+    "site": "USA/TX/Houston/91-51/3"
+  },
+  {
+    "assetNumber": "A6683239",
+    "modelName": "AltaLink C8145 Office Color Tandem Tray",
+    "modelCode": "C8145",
+    "floor": "3",
+    "room": "3E312",
+    "site": "USA/TX/Houston/91-51/3"
+  },
+  {
+    "assetNumber": "A6683240",
+    "modelName": "AltaLink C8145 Office Color Tandem Tray",
+    "modelCode": "C8145",
+    "floor": "4",
+    "room": "4A145",
+    "site": "USA/TX/Houston/91-51/4"
+  },
+  {
+    "assetNumber": "A6683241",
+    "modelName": "AltaLink C8145 Office Color Tandem Tray",
+    "modelCode": "C8145",
+    "floor": "4",
+    "room": "4A300",
+    "site": "USA/TX/Houston/91-51/4"
+  },
+  {
+    "assetNumber": "A6683242",
+    "modelName": "AltaLink C8145 Office Color Tandem Tray",
+    "modelCode": "C8145",
+    "floor": "4",
+    "room": "4A505",
+    "site": "USA/TX/Houston/91-51/4"
+  },
+  {
+    "assetNumber": "A6683243",
+    "modelName": "AltaLink C8145 Office Color Tandem Tray",
+    "modelCode": "C8145",
+    "floor": "4",
+    "room": "4E423",
+    "site": "USA/TX/Houston/91-51/4"
+  },
+  {
+    "assetNumber": "A6683244",
+    "modelName": "AltaLink C8145 Office Color Tandem Tray",
+    "modelCode": "C8145",
+    "floor": "4",
+    "room": "4E909",
+    "site": "USA/TX/Houston/91-51/4"
+  },
+  {
+    "assetNumber": "A6683245",
+    "modelName": "AltaLink C8145 Office Color Tandem Tray",
+    "modelCode": "C8145",
+    "floor": "4",
+    "room": "4D609C",
+    "site": "USA/TX/Houston/91-51/4"
+  },
+  {
+    "assetNumber": "A6683246",
+    "modelName": "AltaLink C8145 Office Color Tandem Tray",
+    "modelCode": "C8145",
+    "floor": "5",
+    "room": "5D207",
+    "site": "USA/TX/Houston/91-51/5"
+  },
+  {
+    "assetNumber": "A6683247",
+    "modelName": "AltaLink C8145 Office Color Tandem Tray",
+    "modelCode": "C8145",
+    "floor": "5",
+    "room": "5E511",
+    "site": "USA/TX/Houston/91-51/5"
+  },
+  {
+    "assetNumber": "A6687701",
+    "modelName": "AltaLink B8255 Office Mono Tandem Tray",
+    "modelCode": "B8255",
+    "floor": "1",
+    "room": "1D604",
+    "site": "USA/TX/Houston/91-51/1"
+  },
+  {
+    "assetNumber": "A6688198",
+    "modelName": "VersaLink C620DN",
+    "modelCode": "C620",
+    "floor": "4",
+    "room": "4A128",
+    "site": "USA/TX/Houston/91-51/4"
+  },
+  {
+    "assetNumber": "A6691843",
+    "modelName": "AltaLink C8235 Office Color Tandem Tray",
+    "modelCode": "C8235",
+    "floor": "4",
+    "room": "4b113c Exec Area",
+    "site": "USA/TX/Houston/91-51/4"
+  }
+]

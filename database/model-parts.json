@@ -1,0 +1,346 @@
+[
+  {
+    "modelCode": "B81xx",
+    "sku": "001R00623"
+  },
+  {
+    "modelCode": "C8100",
+    "sku": "001R00623"
+  },
+  {
+    "modelCode": "B82xx",
+    "sku": "001R00623"
+  },
+  {
+    "modelCode": "C82xx",
+    "sku": "001R00623"
+  },
+  {
+    "modelCode": "C8035",
+    "sku": "006R01509"
+  },
+  {
+    "modelCode": "EC8036",
+    "sku": "006R01509"
+  },
+  {
+    "modelCode": "EC7836",
+    "sku": "006R01509"
+  },
+  {
+    "modelCode": "WC7535",
+    "sku": "006R01509"
+  },
+  {
+    "modelCode": "WC7835",
+    "sku": "006R01509"
+  },
+  {
+    "modelCode": "C8035",
+    "sku": "006R01510"
+  },
+  {
+    "modelCode": "EC8036",
+    "sku": "006R01510"
+  },
+  {
+    "modelCode": "EC7836",
+    "sku": "006R01510"
+  },
+  {
+    "modelCode": "WC7535",
+    "sku": "006R01510"
+  },
+  {
+    "modelCode": "WC7835",
+    "sku": "006R01510"
+  },
+  {
+    "modelCode": "C8035",
+    "sku": "006R01511"
+  },
+  {
+    "modelCode": "EC8036",
+    "sku": "006R01511"
+  },
+  {
+    "modelCode": "EC7836",
+    "sku": "006R01511"
+  },
+  {
+    "modelCode": "WC7535",
+    "sku": "006R01511"
+  },
+  {
+    "modelCode": "WC7835",
+    "sku": "006R01511"
+  },
+  {
+    "modelCode": "C8035",
+    "sku": "006R01512"
+  },
+  {
+    "modelCode": "EC8036",
+    "sku": "006R01512"
+  },
+  {
+    "modelCode": "EC7836",
+    "sku": "006R01512"
+  },
+  {
+    "modelCode": "WC7535",
+    "sku": "006R01512"
+  },
+  {
+    "modelCode": "WC7835",
+    "sku": "006R01512"
+  },
+  {
+    "modelCode": "C8135",
+    "sku": "006R01742"
+  },
+  {
+    "modelCode": "C8135",
+    "sku": "006R01744"
+  },
+  {
+    "modelCode": "C8135",
+    "sku": "006R01745"
+  },
+  {
+    "modelCode": "B625",
+    "sku": "006R04674"
+  },
+  {
+    "modelCode": "C415",
+    "sku": "006R04693"
+  },
+  {
+    "modelCode": "C415",
+    "sku": "006R04695"
+  },
+  {
+    "modelCode": "C415",
+    "sku": "006R04696"
+  },
+  {
+    "modelCode": "C8135",
+    "sku": "008R08103"
+  },
+  {
+    "modelCode": "B8145",
+    "sku": "008R08103"
+  },
+  {
+    "modelCode": "C415",
+    "sku": "008R13325"
+  },
+  {
+    "modelCode": "1",
+    "sku": "013R00681"
+  },
+  {
+    "modelCode": "WC7835",
+    "sku": "059K75651"
+  },
+  {
+    "modelCode": "C8035",
+    "sku": "059K75651"
+  },
+  {
+    "modelCode": "WC7835",
+    "sku": "064K93638"
+  },
+  {
+    "modelCode": "B600",
+    "sku": "101R00582"
+  },
+  {
+    "modelCode": "B605x",
+    "sku": "101R00582"
+  },
+  {
+    "modelCode": "B610",
+    "sku": "101R00582"
+  },
+  {
+    "modelCode": "B615",
+    "sku": "101R00582"
+  },
+  {
+    "modelCode": "C400",
+    "sku": "106R03536"
+  },
+  {
+    "modelCode": "C405",
+    "sku": "106R03536"
+  },
+  {
+    "modelCode": "C400",
+    "sku": "106R03537"
+  },
+  {
+    "modelCode": "C405",
+    "sku": "106R03537"
+  },
+  {
+    "modelCode": "C400",
+    "sku": "106R03538"
+  },
+  {
+    "modelCode": "C405",
+    "sku": "106R03538"
+  },
+  {
+    "modelCode": "C400",
+    "sku": "106R03539"
+  },
+  {
+    "modelCode": "C405",
+    "sku": "106R03539"
+  },
+  {
+    "modelCode": "B600",
+    "sku": "106R03946"
+  },
+  {
+    "modelCode": "B605",
+    "sku": "106R03946"
+  },
+  {
+    "modelCode": "B610",
+    "sku": "106R03946"
+  },
+  {
+    "modelCode": "B615",
+    "sku": "106R03946"
+  },
+  {
+    "modelCode": "C400",
+    "sku": "108R01121"
+  },
+  {
+    "modelCode": "C405",
+    "sku": "108R01121"
+  },
+  {
+    "modelCode": "PH6600",
+    "sku": "108R01121"
+  },
+  {
+    "modelCode": "WC6605",
+    "sku": "108R01121"
+  },
+  {
+    "modelCode": "WC6655",
+    "sku": "108R01121"
+  },
+  {
+    "modelCode": "C400",
+    "sku": "108R01122"
+  },
+  {
+    "modelCode": "C405",
+    "sku": "108R01122"
+  },
+  {
+    "modelCode": "PH6600",
+    "sku": "108R01122"
+  },
+  {
+    "modelCode": "WC6605",
+    "sku": "108R01122"
+  },
+  {
+    "modelCode": "WC6655",
+    "sku": "108R01122"
+  },
+  {
+    "modelCode": "B600",
+    "sku": "115R00139"
+  },
+  {
+    "modelCode": "B605",
+    "sku": "115R00139"
+  },
+  {
+    "modelCode": "B610",
+    "sku": "115R00139"
+  },
+  {
+    "modelCode": "B615",
+    "sku": "115R00139"
+  },
+  {
+    "modelCode": "B600",
+    "sku": "116R00009"
+  },
+  {
+    "modelCode": "B610",
+    "sku": "116R00009"
+  },
+  {
+    "modelCode": "B605",
+    "sku": "116R00009"
+  },
+  {
+    "modelCode": "B615",
+    "sku": "116R00009"
+  },
+  {
+    "modelCode": "PH3635",
+    "sku": "121N01162"
+  },
+  {
+    "modelCode": "WC7835",
+    "sku": "127K66670"
+  },
+  {
+    "modelCode": "ALC8030",
+    "sku": "600N03559"
+  },
+  {
+    "modelCode": "ALC8035",
+    "sku": "600N03559"
+  },
+  {
+    "modelCode": "WC7835",
+    "sku": "604K62202"
+  },
+  {
+    "modelCode": "WC7535",
+    "sku": "604K62202"
+  },
+  {
+    "modelCode": "Most Altalink",
+    "sku": "607K12020"
+  },
+  {
+    "modelCode": "Versalink",
+    "sku": "607K12020"
+  },
+  {
+    "modelCode": "WorkCenter",
+    "sku": "607K12020"
+  },
+  {
+    "modelCode": "HPDJT920",
+    "sku": "B3P06A"
+  },
+  {
+    "modelCode": "HPDJT920",
+    "sku": "C1Q12A"
+  },
+  {
+    "modelCode": "130 ML",
+    "sku": "C9403A"
+  },
+  {
+    "modelCode": "HPDJT7100",
+    "sku": "CM995A"
+  },
+  {
+    "modelCode": "Zebra GX430 GX420",
+    "sku": "P1076000-006"
+  }
+]
