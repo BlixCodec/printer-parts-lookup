@@ -1,0 +1,6 @@
+node_modules/
+.env
+database/*.xls
+database/*.xlsx
+database/printers.db
+npm-debug.log
